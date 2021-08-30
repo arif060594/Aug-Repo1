@@ -6,3 +6,5 @@ post stash apply 0
 =======
 Entering into stash keeping the directory clean.
 >>>>>>> Stashed changes
+
+git revert
