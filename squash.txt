@@ -1,0 +1,2 @@
+Hi,
+I am working on the stash which help in saving the changes aside before commiting.
